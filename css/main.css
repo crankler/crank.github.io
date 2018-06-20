@@ -1737,17 +1737,11 @@ pre .javascript .function {
 .site-author-image {
   display: block;
   margin: 0 auto;
-  padding: 2px;
   max-width: 96px;
   height: auto;
   border: 2px solid #333;
-/* start*/
+  padding: 2px;
   border-radius: 50%;
-  webkit-transition: 1.4s all;
-  moz-transition: 1.4s all;
-  ms-transition: 1.4s all;
-  transition: 1.4s all;
-/* end */
 }
 .site-author-image:hover {
   background-color: #55dae1;
@@ -1920,7 +1914,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #ff2886;
+  background: #ffb022;
 }
 .links-of-blogroll {
   font-size: 13px;

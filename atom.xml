@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://crankler.github.io/"/>
-  <updated>2018-06-20T10:55:30.694Z</updated>
+  <updated>2018-06-20T11:28:46.303Z</updated>
   <id>https://crankler.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://crankler.github.io/2018/06/20/blog-error/"/>
     <id>https://crankler.github.io/2018/06/20/blog-error/</id>
     <published>2018-06-20T10:43:16.000Z</published>
-    <updated>2018-06-20T10:55:30.694Z</updated>
+    <updated>2018-06-20T11:28:46.303Z</updated>
     
     <content type="html"><![CDATA[<p>##1.命名</p><p>仓库名一定要和账号名相同（Repository.github.io ,Repository = Owner ）</p><p>##2.配置站点配置文件_config.yml<br><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">repository: git@github.com:sophiebob/sophiebob.github.io.git</span><br></pre></td></tr></table></figure></p><p>记住不是<a href="http://git@github………………" target="_blank" rel="noopener">http://git@github………………</a></p><p>##搜索栏</p><p>默认的主题配置文件_config.yml是没有search，直接选择algolia_search/local_search 就会出现搜索栏</p><p>添加Algolia 搜索，注意是在站点配置文件中添加algolia配置信息<br><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line">algolia:</span><br><span class="line">  applicationID: </span><br><span class="line">  apiKey: </span><br><span class="line">  adminApiKey: </span><br><span class="line">  indexName: <span class="comment">#创建index使用的Index Name</span></span><br><span class="line">  chunkSize: 5000</span><br></pre></td></tr></table></figure></p><p>记得在环境变量中添加 HEXO_ALGOLIA_INDEXING_KEY<br><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ <span class="built_in">export</span> HEXO_ALGOLIA_INDEXING_KEY=粘贴上一步复制的 API KEY</span><br></pre></td></tr></table></figure></p><p>之后执行 $ hexo algolia<br>显示出 info………… 说明正确</p>]]></content>
     

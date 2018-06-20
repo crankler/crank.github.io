@@ -80,8 +80,6 @@
 
 
 
-  
-
 
   <link rel="alternate" href="/atom.xml" title="Crank's Blog" type="application/atom+xml" />
 
@@ -118,12 +116,16 @@
       userId: '0',
       author: '博主'
     },
+	appId: 'IEG6PT15MY'
+apiKey: '25ac082c09aef23830a232dfaa6a70a3'
+adminApiKey: '2474ecc2d0e6ddcf36c7f2767cc95c29'
+indexName: 'search'
     algolia: {
-      applicationID: '',
-      apiKey: '',
-      indexName: '',
+      applicationID: 'IEG6PT15MY ',
+      apiKey: ' 25ac082c09aef23830a232dfaa6a70a3 ',
+      indexName: ' search ',
       hits: {"per_page":10},
-      labels: {"input_placeholder":"Search for Posts","hits_empty":"We didn't find any results for the search: ${query}","hits_stats":"${hits} results found in ${time} ms"}
+      labels: {"input_placeholder":"搜索...","hits_empty":"未发现与 「${query}」相关的内容","hits_stats":"${hits} 条相关条目，使用了 ${time} 毫秒"}
     }
   };
 </script>

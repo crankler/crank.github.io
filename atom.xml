@@ -5,9 +5,9 @@
   <subtitle>Crank&#39;s Blog</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="https://crankler.github.io/"/>
   <updated>2018-06-19T13:48:13.553Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>https://crankler.github.io/</id>
   
   <author>
     <name>Crank.yao</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2018/06/19/hello-world/"/>
-    <id>http://yoursite.com/2018/06/19/hello-world/</id>
+    <link href="https://crankler.github.io/2018/06/19/hello-world/"/>
+    <id>https://crankler.github.io/2018/06/19/hello-world/</id>
     <published>2018-06-19T13:48:13.553Z</published>
     <updated>2018-06-19T13:48:13.553Z</updated>
     
@@ -34,34 +34,6 @@
     
     </summary>
     
-    
-  </entry>
-  
-  <entry>
-    <title>name</title>
-    <link href="http://yoursite.com/2016/04/06/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%BC%80%E5%A7%8B/"/>
-    <id>http://yoursite.com/2016/04/06/第一篇开始/</id>
-    <published>2016-04-06T02:34:21.000Z</published>
-    <updated>2018-06-20T07:29:33.798Z</updated>
-    
-    <content type="html"><![CDATA[<p>Hello world，Test！！</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;Hello world，Test！！&lt;/p&gt;
-
-      
-    
-    </summary>
-    
-      <category term="blog" scheme="http://yoursite.com/categories/blog/"/>
-    
-    
-      <category term="开始" scheme="http://yoursite.com/tags/%E5%BC%80%E5%A7%8B/"/>
-    
-      <category term="blog" scheme="http://yoursite.com/tags/blog/"/>
     
   </entry>
   

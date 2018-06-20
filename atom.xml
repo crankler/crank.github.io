@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://crankler.github.io/"/>
-  <updated>2018-06-19T13:48:13.553Z</updated>
+  <updated>2018-06-20T07:58:45.646Z</updated>
   <id>https://crankler.github.io/</id>
   
   <author>
@@ -15,6 +15,26 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>第一篇开始</title>
+    <link href="https://crankler.github.io/2018/06/20/first-blog/"/>
+    <id>https://crankler.github.io/2018/06/20/first-blog/</id>
+    <published>2018-06-20T10:34:21.000Z</published>
+    <updated>2018-06-20T07:58:45.646Z</updated>
+    
+    <content type="html"><![CDATA[<a id="more"></a><p>看了很多别人做的博客，一直拖着拖着，也算是完成自己一个小小的愿望，去做一个属于自己的独立博客。</p><p>好奇心一直很大，不懂的也越来越多，有趣的无聊的都知道了一些，所以就自己记录一下，自娱自乐。</p><p>前几天看公众号，有个大佬说最需要具备的能力就是：编程，英语和写作，慢慢想来，可不就是这样吗，所以要去做，要去敢做多做。</p><p>万事开头难，希望写出来的能帮到自己和别人就好了。</p><p>就这样随便说说，去干活了。</p>]]></content>
+    
+    <summary type="html">
+    
+      真不知道说些啥
+    
+    </summary>
+    
+      <category term="随便说说" scheme="https://crankler.github.io/categories/%E9%9A%8F%E4%BE%BF%E8%AF%B4%E8%AF%B4/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>

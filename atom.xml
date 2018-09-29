@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Crank&#39;s Blog</title>
   
-  <subtitle>Crank&#39;s Blog</subtitle>
+  <subtitle>云端不分南北</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://crankler.github.io/"/>
-  <updated>2018-06-20T11:29:38.337Z</updated>
+  <updated>2018-09-29T08:56:49.872Z</updated>
   <id>https://crankler.github.io/</id>
   
   <author>
@@ -15,6 +15,26 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>article</title>
+    <link href="https://crankler.github.io/2018/09/29/article/"/>
+    <id>https://crankler.github.io/2018/09/29/article/</id>
+    <published>2018-09-29T08:54:58.000Z</published>
+    <updated>2018-09-29T08:56:49.872Z</updated>
+    
+    <content type="html"><![CDATA[<a id="more"></a><p>做新系统<br>迁移博客</p>]]></content>
+    
+    <summary type="html">
+    
+      新系统做完试试
+    
+    </summary>
+    
+      <category term="随便说说" scheme="https://crankler.github.io/categories/%E9%9A%8F%E4%BE%BF%E8%AF%B4%E8%AF%B4/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>blog搭建问题总结</title>

@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://crankler.github.io/"/>
-  <updated>2018-10-01T08:25:45.001Z</updated>
+  <updated>2018-10-01T08:38:30.953Z</updated>
   <id>https://crankler.github.io/</id>
   
   <author>
@@ -21,16 +21,16 @@
     <link href="https://crankler.github.io/2018/10/01/markdown/"/>
     <id>https://crankler.github.io/2018/10/01/markdown/</id>
     <published>2018-10-01T08:25:44.931Z</published>
-    <updated>2018-10-01T08:25:45.001Z</updated>
+    <updated>2018-10-01T08:38:30.953Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="date-2018"><a href="#date-2018" class="headerlink" title="date: 2018;"></a><strong>date:</strong> 2018;</h1><h1 id="topic-try-makedowm"><a href="#topic-try-makedowm" class="headerlink" title="topic: try makedowm"></a>topic: try makedowm</h1><p>HIT<br>where is </p><p><img src="https://i.imgur.com/eoOpeV2.jpg" alt=""></p>]]></content>
+    <content type="html"><![CDATA[<p>title:try makedowm</p><h3 id="date-2018-10-1"><a href="#date-2018-10-1" class="headerlink" title="date: 2018.10.1"></a>date: 2018.10.1</h3><h2 id="tags-markdown"><a href="#tags-markdown" class="headerlink" title="tags:markdown"></a>tags:markdown</h2><pre><code>HITwhere is </code></pre><a id="more"></a><p><img src="https://i.imgur.com/eoOpeV2.jpg" alt=""></p>]]></content>
     
     <summary type="html">
     
-      
-      
-        &lt;h1 id=&quot;date-2018&quot;&gt;&lt;a href=&quot;#date-2018&quot; class=&quot;headerlink&quot; title=&quot;date: 2018;&quot;&gt;&lt;/a&gt;&lt;strong&gt;date:&lt;/strong&gt; 2018;&lt;/h1&gt;&lt;h1 id=&quot;topic-try-makedo
-      
+      &lt;p&gt;title:try makedowm&lt;/p&gt;
+&lt;h3 id=&quot;date-2018-10-1&quot;&gt;&lt;a href=&quot;#date-2018-10-1&quot; class=&quot;headerlink&quot; title=&quot;date: 2018.10.1&quot;&gt;&lt;/a&gt;date: 2018.10.1&lt;/h3&gt;&lt;h2 id=&quot;tags-markdown&quot;&gt;&lt;a href=&quot;#tags-markdown&quot; class=&quot;headerlink&quot; title=&quot;tags:markdown&quot;&gt;&lt;/a&gt;tags:markdown&lt;/h2&gt;&lt;pre&gt;&lt;code&gt;HIT
+where is 
+&lt;/code&gt;&lt;/pre&gt;
     
     </summary>
     

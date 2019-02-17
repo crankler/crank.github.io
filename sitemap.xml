@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://crankler.github.io/about/index.html</loc>
+    
+    <lastmod>2019-02-17T08:08:46.205Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://crankler.github.io/2019/02/17/aaa/</loc>
     
     <lastmod>2019-02-17T08:03:04.773Z</lastmod>
@@ -19,13 +26,6 @@
     <loc>https://crankler.github.io/2018/06/20/first-blog/</loc>
     
     <lastmod>2019-02-17T06:28:03.354Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://crankler.github.io/about/index.html</loc>
-    
-    <lastmod>2018-06-20T14:38:28.247Z</lastmod>
     
   </url>
   

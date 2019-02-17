@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://crankler.github.io/"/>
-  <updated>2019-02-17T03:56:50.109Z</updated>
+  <updated>2019-02-17T06:28:02.052Z</updated>
   <id>https://crankler.github.io/</id>
   
   <author>
@@ -21,62 +21,24 @@
     <link href="https://crankler.github.io/2019/02/17/aaa/"/>
     <id>https://crankler.github.io/2019/02/17/aaa/</id>
     <published>2019-02-17T03:53:03.000Z</published>
-    <updated>2019-02-17T03:56:50.109Z</updated>
+    <updated>2019-02-17T06:28:02.052Z</updated>
     
-    <content type="html"><![CDATA[<p>还有三周开始中期答辩<br>想想中间暂停了很久<br>所以今天开始就要整理好东西<br>抓紧时间开始做毕设<br>加油！！<br>顺便试试我的博客！！！</p>]]></content>
+    <content type="html"><![CDATA[<p>还有三周开始中期答辩<br>想想中间暂停了很久<br>所以今天开始就要整理好东西<br>抓紧时间开始做毕设<br>加油！！<br>顺便试试我的博客迁移！！！</p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;还有三周开始中期答辩&lt;br&gt;想想中间暂停了很久&lt;br&gt;所以今天开始就要整理好东西&lt;br&gt;抓紧时间开始做毕设&lt;br&gt;加油！！&lt;br&gt;顺便试试我的博客！！！&lt;/p&gt;
+        &lt;p&gt;还有三周开始中期答辩&lt;br&gt;想想中间暂停了很久&lt;br&gt;所以今天开始就要整理好东西&lt;br&gt;抓紧时间开始做毕设&lt;br&gt;加油！！&lt;br&gt;顺便试试我的博客迁移！！！&lt;/p&gt;
 
       
     
     </summary>
     
-    
-  </entry>
-  
-  <entry>
-    <title>markdown尝试</title>
-    <link href="https://crankler.github.io/2018/10/01/markdown/"/>
-    <id>https://crankler.github.io/2018/10/01/markdown/</id>
-    <published>2018-09-30T16:00:00.000Z</published>
-    <updated>2018-10-01T08:46:09.317Z</updated>
-    
-    <content type="html"><![CDATA[<pre><code>HITwhere is </code></pre><h3 id="HITSZ"><a href="#HITSZ" class="headerlink" title="HITSZ"></a>HITSZ</h3><a id="more"></a><p><img src="https://i.imgur.com/eoOpeV2.jpg" alt=""></p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;pre&gt;&lt;code&gt;HIT
-where is 
-&lt;/code&gt;&lt;/pre&gt;&lt;h3 id=&quot;HITSZ&quot;&gt;&lt;a href=&quot;#HITSZ&quot; class=&quot;headerlink&quot; title=&quot;HITSZ&quot;&gt;&lt;/a&gt;HITSZ&lt;/h3&gt;
-    
-    </summary>
-    
       <category term="随便说说" scheme="https://crankler.github.io/categories/%E9%9A%8F%E4%BE%BF%E8%AF%B4%E8%AF%B4/"/>
     
     
-  </entry>
-  
-  <entry>
-    <title>article</title>
-    <link href="https://crankler.github.io/2018/09/29/article/"/>
-    <id>https://crankler.github.io/2018/09/29/article/</id>
-    <published>2018-09-29T08:54:58.000Z</published>
-    <updated>2018-09-29T08:56:49.872Z</updated>
-    
-    <content type="html"><![CDATA[<a id="more"></a><p>做新系统<br>迁移博客</p>]]></content>
-    
-    <summary type="html">
-    
-      新系统做完试试
-    
-    </summary>
-    
-      <category term="随便说说" scheme="https://crankler.github.io/categories/%E9%9A%8F%E4%BE%BF%E8%AF%B4%E8%AF%B4/"/>
-    
+      <category term="thought" scheme="https://crankler.github.io/tags/thought/"/>
     
   </entry>
   
@@ -85,13 +47,13 @@ where is
     <link href="https://crankler.github.io/2018/06/20/blog-error/"/>
     <id>https://crankler.github.io/2018/06/20/blog-error/</id>
     <published>2018-06-20T10:43:16.000Z</published>
-    <updated>2018-06-20T11:29:38.337Z</updated>
+    <updated>2019-02-17T06:25:16.522Z</updated>
     
-    <content type="html"><![CDATA[<p>##1.命名</p><p>仓库名一定要和账号名相同（Repository.github.io ,Repository = Owner ）</p><p>##2.配置站点配置文件_config.yml<br><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">repository: git@github.com:sophiebob/sophiebob.github.io.git</span><br></pre></td></tr></table></figure></p><p>记住不是<a href="http://git@github………………" target="_blank" rel="noopener">http://git@github………………</a></p><p>##搜索栏</p><p>默认的主题配置文件_config.yml是没有search，直接选择algolia_search/local_search 就会出现搜索栏</p><p>添加Algolia 搜索，注意是在站点配置文件中添加algolia配置信息<br><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line">algolia:</span><br><span class="line">  applicationID: </span><br><span class="line">  apiKey: </span><br><span class="line">  adminApiKey: </span><br><span class="line">  indexName: <span class="comment">#创建index使用的Index Name</span></span><br><span class="line">  chunkSize: 5000</span><br></pre></td></tr></table></figure></p><p>记得在环境变量中添加 HEXO_ALGOLIA_INDEXING_KEY<br><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ <span class="built_in">export</span> HEXO_ALGOLIA_INDEXING_KEY=粘贴上一步复制的 API KEY</span><br></pre></td></tr></table></figure></p><p>之后执行 $ hexo algolia<br>显示出 info………… 说明正确</p>]]></content>
+    <content type="html"><![CDATA[<h3 id="1-命名"><a href="#1-命名" class="headerlink" title="1.命名"></a>1.命名</h3><p>仓库名一定要和账号名相同（Repository.github.io ,注意这里的 Repository = Owner ）</p><p>###2.配置站点配置文件_config.yml<br><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">repository: git@github.com:sophiebob/sophiebob.github.io.git</span><br></pre></td></tr></table></figure></p><p>记住不是<a href="http://git@github………………" target="_blank" rel="noopener">http://git@github………………</a></p><p>###3.搜索栏<br>默认的主题配置文件_config.yml是没有search，直接选择algolia_search/local_search 就会出现搜索栏<br>添加Algolia 搜索，注意是在站点配置文件中添加algolia配置信息<br><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line">algolia:</span><br><span class="line">  applicationID: </span><br><span class="line">  apiKey: </span><br><span class="line">  adminApiKey: </span><br><span class="line">  indexName: <span class="comment">#创建index使用的Index Name</span></span><br><span class="line">  chunkSize: 5000</span><br></pre></td></tr></table></figure></p><p>记得在环境变量中添加 HEXO_ALGOLIA_INDEXING_KEY<br><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ <span class="built_in">export</span> HEXO_ALGOLIA_INDEXING_KEY=粘贴上一步复制的 API KEY</span><br></pre></td></tr></table></figure></p><p>之后执行 $ hexo algolia，显示出 info………… 说明正确</p><p>###4.更换新的文件夹（重新开始写博客）<br>重做系统或者删除相应的文件夹后会出现类似 fatal: Could not read from remote repository<br>并且会出些github帐号的更新确认<br>则重新设置public key和 SSH，并且确认GitHub账号即可</p><p>###5.写新的博客<br>新建一篇博客<br><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new post <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure></p><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><p>运行生成、部署命令<br><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">$ hexo g   // 生成</span><br><span class="line">$ hexo d   // 部署</span><br><span class="line">$ hexo d -g <span class="comment">#在部署前先生成(相当于执行上俩个指令)</span></span><br></pre></td></tr></table></figure></p>]]></content>
     
     <summary type="html">
     
-      hexo博客搭建
+      github + hexo 博客搭建顺序与问题总结
     
     </summary>
     
@@ -100,8 +62,6 @@ where is
     
       <category term="blog" scheme="https://crankler.github.io/tags/blog/"/>
     
-      <category term="error" scheme="https://crankler.github.io/tags/error/"/>
-    
   </entry>
   
   <entry>
@@ -109,7 +69,7 @@ where is
     <link href="https://crankler.github.io/2018/06/20/first-blog/"/>
     <id>https://crankler.github.io/2018/06/20/first-blog/</id>
     <published>2018-06-20T10:34:21.000Z</published>
-    <updated>2018-06-20T08:10:43.219Z</updated>
+    <updated>2019-02-17T06:28:03.354Z</updated>
     
     <content type="html"><![CDATA[<a id="more"></a><p>看了很多别人做的博客，一直拖着拖着，也算是完成自己一个小小的愿望，去做一个属于自己的独立博客。</p><p>好奇心一直很大，不懂的也越来越多，有趣的无聊的都知道了一些，所以就自己记录一下，自娱自乐。</p><p>前几天看公众号，有个大佬说最需要具备的能力就是：编程，英语和写作，慢慢想来，可不就是这样吗，所以要去做，要去敢做多做。</p><p>万事开头难，希望写出来的能帮到自己和别人就好了。</p><p>就这样随便说说，去干活了。</p>]]></content>
     
@@ -122,27 +82,7 @@ where is
       <category term="随便说说" scheme="https://crankler.github.io/categories/%E9%9A%8F%E4%BE%BF%E8%AF%B4%E8%AF%B4/"/>
     
     
-  </entry>
-  
-  <entry>
-    <title>hello world</title>
-    <link href="https://crankler.github.io/2018/06/20/hello-world/"/>
-    <id>https://crankler.github.io/2018/06/20/hello-world/</id>
-    <published>2018-06-20T04:34:21.000Z</published>
-    <updated>2018-06-20T08:25:19.238Z</updated>
-    
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
-    
-    <summary type="html">
-    
-      hexo博客搭建
-    
-    </summary>
-    
-      <category term="blog" scheme="https://crankler.github.io/categories/blog/"/>
-    
-    
-      <category term="blog" scheme="https://crankler.github.io/tags/blog/"/>
+      <category term="thought" scheme="https://crankler.github.io/tags/thought/"/>
     
   </entry>
   
